@@ -3,7 +3,7 @@
 You could call me Richard. I'm Indonesian and currently living in Taiwan working as an Engineer. 
 
 - 🔭 I’m currently working on web application and in the past I've done a research about Generative Adversarial Networks
-- ⚒️ Stack technologies: PHP (in the past), Django, NodeJS, VueJS, ReactJS, MongoDB, MySQL, PostgreSQL, Docker  
+- ⚒️ Current stack technologies: Django, NodeJS, VueJS, MongoDB, Docker  
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Web Development, Machine Learning, and CSS related things (I have inner willing to make something (read: create something useful))
 - 😄 Pronouns: He / Him

@@ -5,7 +5,7 @@ You could call me Richard. I'm Indonesian and currently living in Taiwan working
 - 🔭 I’m currently working on web application and in the past I've done a research about Generative Adversarial Networks
 - ⚒️ Current stack technologies: Django, NodeJS, VueJS, MongoDB, Docker  
 - 🌱 I’m currently learning React Native
-- 💬 Ask me about Web Development, Machine Learning, and CSS related things (I have inner willing to make something (read: create something useful))
+- 💬 Ask me about Web Development and Machine Learning
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I could memorize all of my friends' birthday date (?) Maybe you could say.. I'm gifted 🥳
 

@@ -7,7 +7,7 @@ You could call me Richard. I'm Indonesian and currently living in Taiwan working
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Web Development and Machine Learning
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I could memorize all of my friends' birthday date
+- ⚡ Fun fact: I could memorize all of my friends' birthday date 🥳. Try me 😏
 
 &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/richardfirdaus/)  &nbsp; 

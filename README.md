@@ -1,6 +1,6 @@
 # Hi there <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>
 
-You could call me Richard. I'm Indonesian and currently living in Taiwan working as an Engineer. 
+You could call me Richard. I'm an Indonesian and currently living in Taiwan working as an Engineer. 
 
 - 🔭 I’m currently working on web application and in the past I've done a research about Generative Adversarial Networks
 - ⚒️ Current stack technologies: Django, NodeJS, VueJS, MongoDB, Docker, PostgreSQL

@@ -4,9 +4,8 @@ You could call me Richard. I'm an Indonesian and currently living in Taiwan work
 
 - 🔭 I’m currently working on web application and in the past I've done a research about Generative Adversarial Networks
 - ⚒️ Stack technologies: Django, NodeJS, EmberJS, VueJS, ReactJS, MongoDB, Docker, PostgreSQL
-- 🌱 Currently focusing on VueJS, Django, NodeJS
+- 🌱 Currently focusing on VueJS, Django, NodeJS, AngularJS
 - 😄 Pronouns: He / Him
-- 💬 Ask me about Web Development and Machine Learning
 
 &nbsp; 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/richardfirdaus/)  &nbsp; 

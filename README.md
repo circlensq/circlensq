@@ -3,8 +3,8 @@
 You could call me Richard. I'm an Indonesian and currently living in Taiwan working as an Engineer. 
 
 - 🔭 I’m currently working on web application and in the past I've done a research about Generative Adversarial Networks
-- ⚒️ Stack technologies: Django, NodeJS, EmberJS, VueJS, ReactJS, MongoDB, Docker, PostgreSQL
-- 🌱 Currently focusing on VueJS, .NET(C#), NodeJS, AngularJS
+- ⚒️ Stack technologies: Django, NodeJS, EmberJS, Angular, Vue, React, MongoDB, Docker, PostgreSQL, .Net, SQL Server
+- 🌱 Currently focusing on React, .NET(C#), NodeJS, Angular
 - 😄 Pronouns: He / Him
 
 &nbsp; 

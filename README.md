@@ -8,7 +8,6 @@ You could call me Richard. I'm an Indonesian and currently living in Taiwan work
 - 😄 Pronouns: He / Him
 
 &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/richardfirdaus/)  &nbsp; 
 <a href="mailto:richfir@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 
